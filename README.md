@@ -1,2 +1,2 @@
-# random_haskell
+# haskell
 just for me to learn haskell
